@@ -1,2 +1,2 @@
-#O Objetivo desse Projeto é criar um site em HTML e CSS, usando alguns
-conhecimentos que possuo sobre. O site será sobre uma Clínica Médica
+#Objetivo: Criei um site em HTML e CSS, usando alguns
+conhecimentos que possuo sobre. Não terá nada relacionado ao Back-End. O site será sobre uma Clínica Médica
