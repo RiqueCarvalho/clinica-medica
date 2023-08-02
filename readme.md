@@ -1,2 +1,2 @@
-#Objetivo: Criei um site em HTML e CSS, usando alguns
+#Objetivo: Criar um site em HTML e CSS, usando alguns
 conhecimentos que possuo sobre. Será usado mais Front-End neste projeto.
