@@ -1,0 +1,70 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    background-image: url(plano-de-negocios-clinica-medica.jpg);
+    background-position: center;
+    background-size: cover;
+    color: black;
+}
+
+/* Estilos para o cabeçalho */
+.header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 60px;
+    font-weight: bold;
+    margin-right: auto;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-left: 20px;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Estilos para o conteúdo */
+.content {
+    max-width: 800px;
+    margin: 5px auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+/* Estilos para o rodapé */
+.footer {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.footer p {
+    margin: 5px 0;
+}
